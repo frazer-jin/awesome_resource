@@ -3,3 +3,7 @@
 ## Mysql
 ### 字符集
 * https://www.cnblogs.com/seasonhu/p/14994857.html
+
+## MongoDB
+### 连接参数
+* https://www.cnblogs.com/cool-fire/p/9807771.html
