@@ -7,3 +7,4 @@
 ## MongoDB
 ### 连接参数
 * https://www.cnblogs.com/cool-fire/p/9807771.html
+* https://www.cnblogs.com/baizhanshi/p/10098011.html
