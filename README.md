@@ -12,3 +12,7 @@
 ## Javascript
 ### ES6
 * https://es6.ruanyifeng.com/#docs/promise
+
+## Git
+### Git command learn
+* https://learngitbranching.js.org/?locale=zh_CN
