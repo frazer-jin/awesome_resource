@@ -13,6 +13,7 @@
 ### ES6
 * https://es6.ruanyifeng.com/#docs/promise
 * https://ui.dev/async-javascript-from-callbacks-to-promises-to-async-await
+* https://zhuanlan.zhihu.com/p/133411720
 
 ## Git
 ### Git command learn
