@@ -1,5 +1,10 @@
 # 优秀文章
 
+## 资源
+### 图标资源
+* https://iconbuddy.app/
+
+
 ## Mysql
 ### 字符集
 * https://www.cnblogs.com/seasonhu/p/14994857.html
