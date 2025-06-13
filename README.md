@@ -23,3 +23,7 @@
 ## Git
 ### Git command learn
 * https://learngitbranching.js.org/?locale=zh_CN
+
+## 算法
+### Rate limiting
+* https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting
