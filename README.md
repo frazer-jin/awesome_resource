@@ -8,6 +8,7 @@
 ## Mysql
 ### 字符集
 * https://www.cnblogs.com/seasonhu/p/14994857.html
+* https://planetscale.com/blog/btrees-and-database-indexes
 
 ## MongoDB
 ### 连接参数
